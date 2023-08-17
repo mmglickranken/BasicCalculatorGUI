@@ -1,0 +1,22 @@
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\bin\Debug\Project3.1-BasicCalculatorGUI01.exe.config
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\bin\Debug\Project3.1-BasicCalculatorGUI01.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\bin\Debug\Project3.1-BasicCalculatorGUI01.pdb
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3._1_BasicCalculatorGUI01.frmBasicCalculator.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3._1_BasicCalculatorGUI01.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.exe
+C:\Users\Mae\OneDrive\Desktop\MerileeAnnaGlickAWD1100-Labs\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.pdb
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\bin\Debug\Project3.1-BasicCalculatorGUI01.exe.config
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\bin\Debug\Project3.1-BasicCalculatorGUI01.exe
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\bin\Debug\Project3.1-BasicCalculatorGUI01.pdb
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.csproj.AssemblyReference.cache
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3._1_BasicCalculatorGUI01.frmBasicCalculator.resources
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3._1_BasicCalculatorGUI01.Properties.Resources.resources
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.csproj.GenerateResource.cache
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.csproj.CoreCompileInputs.cache
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.exe
+C:\Users\Mae\OneDrive\Desktop\Mae's Stuff\Documents\Career\E-Portfolio\GitHubRepos\BasicCalculatorGUI\Project3.1-BasicCalculator\Project3.1-BasicCalculatorGUI01\obj\Debug\Project3.1-BasicCalculatorGUI01.pdb
